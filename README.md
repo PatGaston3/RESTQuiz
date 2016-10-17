@@ -14,6 +14,8 @@ This is a Javascript quiz game application with user score persistance.
 <li>MySQL</li>
 <li>XMLHttpRequest</li>
 <li>JSON data file manipulation</li>
+<li>DOM Manipulation</li>
+<li>JQuery</li>
 </ul>
 
 ### Design
