@@ -38,5 +38,5 @@ The JavaScript code can be found in Quiz/WebContent (https://github.com/PatGasto
 ### Challenges
 
 - Consuming the restful API through Spring controllers. 
-- Mapping JPA entities to the Database and managing JSON references (in reference to "managed" and "back" references.
+- Mapping JPA entities to the Database and managing JSON references (in reference to "managed" and "back" references).
  
